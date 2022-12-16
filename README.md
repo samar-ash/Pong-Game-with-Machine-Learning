@@ -6,3 +6,5 @@ model = LinearRegression(fit_intercept=True)
 The average length of 3 games played by AI, in seconds is 21 sec.
 In fact when the ball plays fast(with sharp angel), I myself cannot play the game and obviously I cannot train it vry well because I lose exactly in the begining of the game. However, when the speed of ball decrease I can play very well and I get a better result so I can train much better.
 So that is why I get 4.15 or 8.23 when the ball plays fast but I get 73.39 sec when the ball plays slowly.
+
+![Animation](https://user-images.githubusercontent.com/15922299/208158137-65dc77d2-600d-45a0-902f-f79fea0c9bbc.gif)
